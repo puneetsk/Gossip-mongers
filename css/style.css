@@ -1,0 +1,11 @@
+/* Custom Styles */
+
+body{background: #fff;}
+header{background:#34495e;}
+.btn{background: #FEA47F; color: #000;}
+.top-header{border-bottom: 1px solid #fff;}
+.site-logo{text-align: left; width: 80%; }
+.uk-flex{align-items:center;}
+.login a{background: #FEA47F; color: #fff; font-weight: bold; text-align: right;border:2px solid #F97F51;}
+.login a:hover,
+.login a:focus{border-radius: 10px; background: #F97F51;}
